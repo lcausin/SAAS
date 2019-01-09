@@ -1,2 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<configurations><projectconfig projectfile="SAAS.project" projectcmakelists="."/><buildconfigs><build name="build_linux" platform="Linux" package="package_steam" distribution="distribution_steam" api="OpenGLES2" args=""><architecture name="x86"/></build></buildconfigs><packageconfigs><package name="package_steam" package="steam"/></packageconfigs><distribconfigs><distrib name="distribution_steam" distribution="Steam"><appid value="0"/><desc value=""/><depotid value="0"/></distrib></distribconfigs></configurations>
